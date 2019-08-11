@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.js": "/Page/static/js/main.a6d475ee.chunk.js",
-    "main.js.map": "/Page/static/js/main.a6d475ee.chunk.js.map",
+    "main.js": "/Page/static/js/main.78ea8eea.chunk.js",
+    "main.js.map": "/Page/static/js/main.78ea8eea.chunk.js.map",
     "runtime~main.js": "/Page/static/js/runtime~main.415f6a06.js",
     "runtime~main.js.map": "/Page/static/js/runtime~main.415f6a06.js.map",
-    "static/js/2.92cad6fd.chunk.js": "/Page/static/js/2.92cad6fd.chunk.js",
-    "static/js/2.92cad6fd.chunk.js.map": "/Page/static/js/2.92cad6fd.chunk.js.map",
+    "static/js/2.ebf73c51.chunk.js": "/Page/static/js/2.ebf73c51.chunk.js",
+    "static/js/2.ebf73c51.chunk.js.map": "/Page/static/js/2.ebf73c51.chunk.js.map",
     "index.html": "/Page/index.html",
-    "precache-manifest.621ea26133780df73a1d9261407b2f5c.js": "/Page/precache-manifest.621ea26133780df73a1d9261407b2f5c.js",
-    "service-worker.js": "/Page/service-worker.js"
+    "precache-manifest.c037b5055bd162e6df27c08d33728f4c.js": "/Page/precache-manifest.c037b5055bd162e6df27c08d33728f4c.js",
+    "service-worker.js": "/Page/service-worker.js",
+    "static/media/.netcore.png": "/Page/static/media/.netcore.da339832.png",
+    "static/media/SuperMario.ttf": "/Page/static/media/SuperMario.6c02f15f.ttf",
+    "static/media/js.png": "/Page/static/media/js.86443ae4.png",
+    "static/media/php.png": "/Page/static/media/php.1befcc4c.png"
   }
 }
