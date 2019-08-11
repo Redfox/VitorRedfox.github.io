@@ -1,6 +1,13 @@
 import { createGlobalStyle } from 'styled-components';
 
+import font from '../assets/fonts/SuperMario.ttf';
+
 const GlobalStyle = createGlobalStyle`
+  @font-face {
+    font-family: SuperMario;
+    src: url(${font});
+  }
+
   * {
     margin: 0;
     padding: 0;
@@ -9,9 +16,12 @@ const GlobalStyle = createGlobalStyle`
   }
   html, body {
     overflow: hidden;
+    display: flex;
   }
   html, body, #root {
     height: 100%;
+    flex: 1;
+    display: flex;
   }
   body {
     color: #FFF;

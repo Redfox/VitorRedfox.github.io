@@ -3,11 +3,13 @@ import { BrowserRouter } from 'react-router-dom';
 
 import GlobalStyle from './styles/global';
 
+import Main from './pages/Main';
+
 function App() {
   return (
     <BrowserRouter>
-      <h1>Portifolio incoming</h1>
       <GlobalStyle />
+      <Main />
     </BrowserRouter>
   )
 }
