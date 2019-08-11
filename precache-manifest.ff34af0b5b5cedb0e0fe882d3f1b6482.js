@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c17363afb798f207cf5e186791564c31",
+    "revision": "ffd5ae83a7f59b8d1dd6fdae2a367859",
     "url": "/Page/index.html"
   },
   {
@@ -8,20 +8,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Page/static/js/2.ebf73c51.chunk.js"
   },
   {
-    "revision": "b56c8823cc45066c15fc",
-    "url": "/Page/static/js/main.78ea8eea.chunk.js"
+    "revision": "65d8b94f68e455c68cb4",
+    "url": "/Page/static/js/main.cfd857b2.chunk.js"
   },
   {
     "revision": "8f117488b318cce42be2",
     "url": "/Page/static/js/runtime~main.415f6a06.js"
   },
   {
-    "revision": "da33983229bb45d7b2196257bb8754db",
-    "url": "/Page/static/media/.netcore.da339832.png"
-  },
-  {
     "revision": "6c02f15fdbc9dd7c482b52b06d8e0a6c",
     "url": "/Page/static/media/SuperMario.6c02f15f.ttf"
+  },
+  {
+    "revision": "da33983229bb45d7b2196257bb8754db",
+    "url": "/Page/static/media/dotnetcore.da339832.png"
   },
   {
     "revision": "86443ae417df02e69872bdce1ccac624",
