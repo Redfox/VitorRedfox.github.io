@@ -22,12 +22,13 @@ const GlobalStyle = createGlobalStyle`
     height: 100%;
     flex: 1;
     display: flex;
+    flex-direction: column;
+    font-family: "Maison", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   }
   body {
-    color: #FFF;
     text-rendering: optimizeLegibility !important;
     -webkit-font-smoothing: antialiased !important;
-    background: #181818;
+    background: #faf8ff;
     font-family: 'Montserrat', sans-serif;
   }
   button {

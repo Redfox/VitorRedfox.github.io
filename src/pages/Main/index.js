@@ -1,9 +1,11 @@
 import React from 'react';
 
-import Knowledge from '../../components/Knowledge';
+import Header from '../../components/Header';
 
 export default function Main() {
   return (
-    <Knowledge />
+    <>
+      <Header />
+    </>
   );
 }
