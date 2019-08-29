@@ -1,17 +1,14 @@
 {
   "files": {
-    "main.js": "/Page/static/js/main.cfd857b2.chunk.js",
-    "main.js.map": "/Page/static/js/main.cfd857b2.chunk.js.map",
+    "main.js": "/Page/static/js/main.77eb4f2b.chunk.js",
+    "main.js.map": "/Page/static/js/main.77eb4f2b.chunk.js.map",
     "runtime~main.js": "/Page/static/js/runtime~main.415f6a06.js",
     "runtime~main.js.map": "/Page/static/js/runtime~main.415f6a06.js.map",
-    "static/js/2.ebf73c51.chunk.js": "/Page/static/js/2.ebf73c51.chunk.js",
-    "static/js/2.ebf73c51.chunk.js.map": "/Page/static/js/2.ebf73c51.chunk.js.map",
+    "static/js/2.b89a643c.chunk.js": "/Page/static/js/2.b89a643c.chunk.js",
+    "static/js/2.b89a643c.chunk.js.map": "/Page/static/js/2.b89a643c.chunk.js.map",
     "index.html": "/Page/index.html",
-    "precache-manifest.ff34af0b5b5cedb0e0fe882d3f1b6482.js": "/Page/precache-manifest.ff34af0b5b5cedb0e0fe882d3f1b6482.js",
+    "precache-manifest.f284b28a9d2b8b1bd5731157e762eeaf.js": "/Page/precache-manifest.f284b28a9d2b8b1bd5731157e762eeaf.js",
     "service-worker.js": "/Page/service-worker.js",
-    "static/media/SuperMario.ttf": "/Page/static/media/SuperMario.6c02f15f.ttf",
-    "static/media/dotnetcore.png": "/Page/static/media/dotnetcore.da339832.png",
-    "static/media/js.png": "/Page/static/media/js.86443ae4.png",
-    "static/media/php.png": "/Page/static/media/php.1befcc4c.png"
+    "static/media/SuperMario.ttf": "/Page/static/media/SuperMario.6c02f15f.ttf"
   }
 }
