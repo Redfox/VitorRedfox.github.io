@@ -1,14 +1,19 @@
 {
   "files": {
-    "main.js": "/Page/static/js/main.77eb4f2b.chunk.js",
-    "main.js.map": "/Page/static/js/main.77eb4f2b.chunk.js.map",
-    "runtime~main.js": "/Page/static/js/runtime~main.415f6a06.js",
-    "runtime~main.js.map": "/Page/static/js/runtime~main.415f6a06.js.map",
-    "static/js/2.b89a643c.chunk.js": "/Page/static/js/2.b89a643c.chunk.js",
-    "static/js/2.b89a643c.chunk.js.map": "/Page/static/js/2.b89a643c.chunk.js.map",
-    "index.html": "/Page/index.html",
-    "precache-manifest.f284b28a9d2b8b1bd5731157e762eeaf.js": "/Page/precache-manifest.f284b28a9d2b8b1bd5731157e762eeaf.js",
-    "service-worker.js": "/Page/service-worker.js",
-    "static/media/SuperMario.ttf": "/Page/static/media/SuperMario.6c02f15f.ttf"
-  }
+    "main.js": "/static/js/main.a8ba04b5.chunk.js",
+    "main.js.map": "/static/js/main.a8ba04b5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c57d4366.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c57d4366.js.map",
+    "static/js/2.b88456fb.chunk.js": "/static/js/2.b88456fb.chunk.js",
+    "static/js/2.b88456fb.chunk.js.map": "/static/js/2.b88456fb.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ee264b7b354db367784fa6f39adfc64f.js": "/precache-manifest.ee264b7b354db367784fa6f39adfc64f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.b88456fb.chunk.js.LICENSE.txt": "/static/js/2.b88456fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c57d4366.js",
+    "static/js/2.b88456fb.chunk.js",
+    "static/js/main.a8ba04b5.chunk.js"
+  ]
 }
