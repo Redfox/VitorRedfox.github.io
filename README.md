@@ -2,4 +2,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Personal Curriculum
 
-[check it out](http://VitorRedfox.github.io/Page)
+[check it out](http://VitorRedfox.github.io)
